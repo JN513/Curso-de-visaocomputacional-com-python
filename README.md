@@ -1,1 +1,1 @@
-# Curso-de-vis-ocomputacional-com-python
+# Curso-de-visãocomputacional-com-python
