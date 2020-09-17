@@ -1,0 +1,7 @@
+cv==1.0.0
+numpy==1.19.1
+opencv-contrib-python==4.4.0.42
+opencv-python==4.4.0.40
+requests==2.24.0
+requests-unixsocket==0.2.0
+matplotlib==3.3.0
